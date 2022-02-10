@@ -1,0 +1,48 @@
+#Prescreening {
+    text-align:center;
+    line-height: 10px;
+}
+
+#charge {
+    text-align:center;
+}
+
+#textboxid   {
+    height:13px;
+    font-size:12pt;
+
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    text-align:center;
+
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#casebycase {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#employementinformation {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#noSmoking {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+option {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#threeFac {
+    border-style: double;
+}
